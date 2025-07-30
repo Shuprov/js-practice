@@ -1,4 +1,4 @@
-const studentMarks = -70;
+const studentMarks = 82;
 if (studentMarks >= 90 && studentMarks <= 100) {
     console.log("Your grade is: A");
 }
